@@ -24,6 +24,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You should see the application launched in your default browser.
 
+![alt text](task-manager/public/tasks-page.png)
+
 ## Running this App in your smart phone and other devices
 
 If the desired devices are in the same LAN or WLAN:
@@ -35,6 +37,9 @@ If the desired devices are in the same LAN or WLAN:
     *You have to provide the ip address of the device running the ```start.sh``` script*
 
 You should see the application launched on the browsers of the devices
+
+![alt text](task-manager/public/tasks-page-sm.jpg)
+
 
 ## Other Available Scripts
 
